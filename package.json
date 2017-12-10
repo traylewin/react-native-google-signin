@@ -1,5 +1,5 @@
 {
-  "name": "@traylewin/react-native-google-signin",
+  "name": "react-native-google-signin",
   "version": "0.11.1",
   "description": "Google Signin for your react native applications",
   "main": "index.js",
